@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "undefined/subscriptions/56ba3e4b-78b4-467f-80f8-376db89fde61/resourceGroups/flash-story-server/providers/Microsoft.Web/sites/FlashStoryServer",
+  "appService.deploySubpath": "."
+}
